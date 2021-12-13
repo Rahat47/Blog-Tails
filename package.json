@@ -1,18 +1,25 @@
 {
-  "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
-  },
-  "dependencies": {
-    "next": "latest",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2"
-  },
-  "devDependencies": {
-    "autoprefixer": "^10.4.0",
-    "postcss": "^8.4.4",
-    "tailwindcss": "^3.0.0"
-  }
+    "version": "0.0.1",
+    "name": "blog_tails",
+    "description": "A personal blog application. With a focus on simplicity and clean design. Made with Next.js and TailwindCSS.",
+    "private": true,
+    "author": {
+        "name": "Rayhan Hossain Rahat",
+        "email": "djrayhan8@gmail.com"
+    },
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start"
+    },
+    "dependencies": {
+        "next": "latest",
+        "react": "^17.0.2",
+        "react-dom": "^17.0.2"
+    },
+    "devDependencies": {
+        "autoprefixer": "^10.4.0",
+        "postcss": "^8.4.4",
+        "tailwindcss": "^3.0.0"
+    }
 }
